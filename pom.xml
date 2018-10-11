@@ -19,7 +19,10 @@
 	    <url>http://www.gnu.org/licenses/gpl.txt</url>
 	  </license>
 	</licenses>
-    
+    <configuration>
+                <mainClass>Application.java</mainClass>
+                <addResources>true</addResources>
+            </configuration>
 	<developers>
 		<developer>
 			<name>Walid YAICH</name>
